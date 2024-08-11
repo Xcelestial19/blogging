@@ -5,7 +5,7 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import Layout from './components/Layout';
 import ErrorPage from './pages/ErrorPage'
 import Home from './pages/Home';
-import PostDetail from './pages/Home';
+import PostDetail from './pages/PostDetail';
 import Register from './pages/Register';
 import Login from './pages/Login';
 import UserProfile from './pages/UserProfile';
@@ -16,6 +16,7 @@ import CategoryPosts from './pages/CategoryPosts';
 import AuthorPosts from './pages/AuthorPosts';
 import Dashboard from './pages/Dashboard';
 import Logout from './pages/Logout';
+
 
 
 
